@@ -1,0 +1,10 @@
+<chassis.model>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.25677 0.00374409 -2.45367</min>
+    <max>1.25679 1.08465 2.46263</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+  <nodefullVisual>vehicles/french/F88_AMX_13_105/normal/lod0/Chassis</nodefullVisual>
+</chassis.model>
