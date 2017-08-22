@@ -1,11 +1,10 @@
 Thank you for downloading!
 
 To install:
-- Drag the files from inside the MAIN MOD - COLOR CHANGE folder to your World of Tanks install directory (by default, C:\Games\World_of_Tanks).
-Optional:
-- If you want to also remove the skin from the AMX M4 49 Liberte, drag the "res_mods" folder from inside the ADDON - REMOVE AMX M4 49 LIBERTE SKIN folder to your World of Tanks install directory as well. 
+- Drag the "gui" and "vehicles" folders from inside the included "MAIN MOD (Install this FIRST)" folder to your World of Tanks install directory (by default, C:\Games\World_of_Tanks\res_mods\<version>) (example: C:\Games\World_Of_Tanks\res_mods\0.9.20.0).
 
-IMPORTANT NOTE: Only the tanks that are currently in HD have the color swap. The non-HD tanks still have their default blue color. Since WG is going to rework them into HD at some point anyways, I'd rather not have to re-do the mod twice for those tanks. Plus, the color shows up weird since they use the old model/texture system.
+Optional:
+- If you want to remove the AMX M4 49 Liberte's skin, drag the "gui" and "vehicles" folders from inside the "ADDON - Remove Liberte Skin" folder to <Your WoT Directory\res_mods\<Game Version>\ (example: C:\Games\World_of_Tanks\res_mods\0.9.20.0\).
 
 Enjoy!
 
